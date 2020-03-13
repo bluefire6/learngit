@@ -7,4 +7,4 @@ Creating a new branch is quick and simple.
 Modification.
 Test.
 Coding is ongoing.
-
+Add commit.
