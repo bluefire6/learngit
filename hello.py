@@ -1,3 +1,5 @@
 print ('wlgeeele')
 print ('test')
-print ('dddsds')
+print ('3')
+print ('wlg666eeele')
+print ('test')
